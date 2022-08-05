@@ -1,4 +1,6 @@
-# Progetto-Programmazione-Mobile
+# OrganizeUp
+
+Progetto del corso Programmazione mobile
 
 Mock-up: https://framer.com/projects/2fd77wqU7cEWVs2S18WU-hwe5j?node=iy4QHvL61
 
